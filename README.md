@@ -21,3 +21,6 @@
 - Jsp & Servlet
 - Git & GitHub
 - MySQL
+- SpringBoot
+- Hibernate
+- React
